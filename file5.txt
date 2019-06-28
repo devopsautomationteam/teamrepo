@@ -1,1 +1,3 @@
 another sample file to test the diff
+Lets add some text
+to test the diff
