@@ -1,0 +1,4 @@
+logfile, line1
+logfile, line2
+logfile, line3
+logfile, line4
