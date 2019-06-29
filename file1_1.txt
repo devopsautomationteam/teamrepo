@@ -6,9 +6,11 @@ testfile1 , line 4b
 testfile1 , line 4c
 testfile1 , line 5
 testfile1 , line 6
+testfile1 , line 6a (added in hub)
 testfile1 , line 7
 testfile1 , line 7a
-testfile1 , line 9
+testfile1 , line 7b (added in hub)
+deleting the text line9 and adding tis content (added in hub)
 testfile1 , line 7b
 testfile1 , line 7ac
 testfile1 , line 8
