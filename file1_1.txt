@@ -1,4 +1,4 @@
-testfile1 , line 1 
+Deleting the 1st line done via local repo
 testfile1 , line 2
 testfile1 , line 3
 testfile1 , line 4
@@ -12,3 +12,6 @@ testfile1 , line 9
 testfile1 , line 7b
 testfile1 , line 7ac
 testfile1 , line 8
+Let me add some content done via local repo
+how this merge happening done via local repo
+
