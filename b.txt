@@ -1,1 +1,2 @@
 this is file b
+added some lines after email/username change
