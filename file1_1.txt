@@ -2,7 +2,9 @@ testfile1 , line 1
 testfile1 , line 2
 testfile1 , line 3
 testfile1 , line 4
+testfile1 , line 4b
 testfile1 , line 5
 testfile1 , line 6
 testfile1 , line 7
+testfile1 , line 7a
 testfile1 , line 8
