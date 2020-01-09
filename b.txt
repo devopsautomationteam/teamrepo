@@ -1,3 +1,0 @@
-this is file b
-added some lines after email/username change
-added this line for merge
